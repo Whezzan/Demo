@@ -1,5 +1,5 @@
 # Demo
-En demo repository
+En demo repository där jag testar Commit, Push och Pull mellan GitHub och VS
 - ett
-- tv�
+- två
 - tre
